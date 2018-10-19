@@ -1,0 +1,7 @@
+C:\Users\Alexander\source\repos\MathstatsApp\MathstatsApp\bin\Debug\MathstatsApp.exe.config
+C:\Users\Alexander\source\repos\MathstatsApp\MathstatsApp\bin\Debug\MathstatsApp.exe
+C:\Users\Alexander\source\repos\MathstatsApp\MathstatsApp\bin\Debug\MathstatsApp.pdb
+C:\Users\Alexander\source\repos\MathstatsApp\MathstatsApp\obj\Debug\MathstatsApp.csprojAssemblyReference.cache
+C:\Users\Alexander\source\repos\MathstatsApp\MathstatsApp\obj\Debug\MathstatsApp.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\MathstatsApp\MathstatsApp\obj\Debug\MathstatsApp.exe
+C:\Users\Alexander\source\repos\MathstatsApp\MathstatsApp\obj\Debug\MathstatsApp.pdb
